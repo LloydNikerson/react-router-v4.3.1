@@ -1,6 +1,6 @@
 {
   "private": true,
-  "name": "react-router-packages",
+  "name": "react-router-v4.3.1-packages",
   "scripts": {
     "postinstall": "node ./scripts/postinstall.js",
     "build": "node ./scripts/build.js",
